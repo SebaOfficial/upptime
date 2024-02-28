@@ -5,12 +5,16 @@ repo: upptime # The name of this repository
 sites:
   - name: Racca.me
     url: https://racca.me
+    icon: https://racca.me/favicon.ico
   - name: Blog
     url: https://racca.me
+    icon: https://blog.racca.me/favicon.ico
 
 status-website:
   cname: upptime.racca.me
-  name: Upptime - racca.me
+  name: Upptime | racca.me
+  logoUrl: https://racca.me/assets/img/avatar.png
+  favicon: https://racca.me/favicon.ico
   introTitle: "[**racca.me**](https://racca.me)'s upptime status page powered by [Upptime](https://github.com/upptime/upptime)."
   introMessage: This page contains **real-time** data from [racca.me](https://racca.me)'s websites
   navbar:
