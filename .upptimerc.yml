@@ -10,7 +10,7 @@ sites:
     icon: https://blog.racca.me/favicon.ico
   - name: TelegramSDK
     url: https://botapi.racca.me
-    icon: https://botapi.racca.me/favicon.ico
+    icon: https://botapi.racca.me/img/favicon.ico
   - name: QWER
     url: https://qwer.racca.me
     icon: https://qwer.racca.me/favicon.ico
