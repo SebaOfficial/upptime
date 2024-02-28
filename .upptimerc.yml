@@ -22,3 +22,4 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  js: "<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{\"token\": "a26b652fb59e471fab055eb0cfbb5681"}'></script><!-- End Cloudflare Web Analytics -->"
