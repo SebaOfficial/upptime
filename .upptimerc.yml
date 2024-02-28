@@ -8,6 +8,12 @@ sites:
   - name: Blog
     url: https://racca.me
     icon: https://blog.racca.me/favicon.ico
+  - name: TelegramSDK
+    url: https://botapi.racca.me
+    icon: https://botapi.racca.me/favicon.ico
+  - name: QWER
+    url: https://qwer.racca.me
+    icon: https://qwer.racca.me/favicon.ico
 
 status-website:
   cname: upptime.racca.me
