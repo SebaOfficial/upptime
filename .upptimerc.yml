@@ -20,6 +20,7 @@ status-website:
   name: Upptime | racca.me
   logoUrl: https://racca.me/assets/img/avatar.png
   favicon: https://racca.me/favicon.ico
+  robotsText: "User-agent: * \nAllow: /"
   introTitle: "[**racca.me**](https://racca.me)'s upptime status page powered by [Upptime](https://github.com/upptime/upptime)."
   introMessage: This page contains **real-time** data from [racca.me](https://racca.me)'s websites
   navbar:
