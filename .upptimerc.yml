@@ -14,6 +14,9 @@ sites:
   - name: QWER
     url: https://qwer.racca.me
     icon: https://qwer.racca.me/favicon.ico
+  - name: Newsletter
+    url: https://newsletter.racca.me
+    icon: https://newsletter.racca.me/favicon.ico
 
 status-website:
   cname: upptime.racca.me
