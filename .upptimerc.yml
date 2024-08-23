@@ -6,7 +6,7 @@ sites:
     url: https://racca.me
     icon: https://racca.me/favicon.ico
   - name: Blog
-    url: https://racca.me
+    url: https://blog.racca.me
     icon: https://blog.racca.me/favicon.ico
   - name: TelegramSDK
     url: https://botapi.racca.me
