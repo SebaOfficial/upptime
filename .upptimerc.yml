@@ -17,6 +17,9 @@ sites:
   - name: Newsletter
     url: https://newsletter.racca.me
     icon: https://newsletter.racca.me/favicon.ico
+  - name: API
+    url: https://api.racca.me/ping
+    icon: https://racca.me/favicon.ico
 
 status-website:
   cname: upptime.racca.me
