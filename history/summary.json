@@ -4,10 +4,10 @@
     "url": "https://racca.me",
     "icon": "https://racca.me/favicon.ico",
     "slug": "racca-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 729,
@@ -15,7 +15,9 @@
     "timeWeek": 1166,
     "timeMonth": 902,
     "timeYear": 729,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-29": 2
+    }
   },
   {
     "name": "Blog",
@@ -94,9 +96,9 @@
     "url": "https://api.racca.me/ping",
     "icon": "https://racca.me/favicon.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +107,8 @@
     "timeWeek": 511,
     "timeMonth": 511,
     "timeYear": 511,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-29": 0
+    }
   }
 ]
