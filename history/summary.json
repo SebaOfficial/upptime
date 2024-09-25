@@ -4,19 +4,19 @@
     "url": "https://racca.me",
     "icon": "https://racca.me/favicon.ico",
     "slug": "racca-me",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 747,
-    "timeDay": 2154,
-    "timeWeek": 1189,
-    "timeMonth": 853,
+    "timeDay": 1795,
+    "timeWeek": 1142,
+    "timeMonth": 849,
     "timeYear": 747,
     "dailyMinutesDown": {
-      "2024-09-25": 0
+      "2024-09-25": 7
     }
   },
   {
