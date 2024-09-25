@@ -20,6 +20,12 @@ sites:
   - name: API
     url: https://api.racca.me/ping
     icon: https://racca.me/favicon.ico
+  - name: LinkSharer
+    url: https://linksharer.js.org
+    icon: https://linksharer.js.org/img/favicon.ico
+  - name: LinkSharer Demo
+    url: https://demo.linksharer.js.org
+    icon: https://demo.linksharer.js.org/favicon.ico
 
 status-website:
   cname: upptime.racca.me
