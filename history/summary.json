@@ -4,11 +4,11 @@
     "url": "https://racca.me",
     "icon": "https://racca.me/favicon.ico",
     "slug": "racca-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 735,
     "timeDay": 933,
@@ -16,7 +16,7 @@
     "timeMonth": 678,
     "timeYear": 735,
     "dailyMinutesDown": {
-      "2024-11-06": 19
+      "2024-11-06": 21
     }
   },
   {
@@ -96,9 +96,9 @@
     "url": "https://api.racca.me/ping",
     "icon": "https://racca.me/favicon.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,7 +107,9 @@
     "timeWeek": 486,
     "timeMonth": 456,
     "timeYear": 517,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-06": 0
+    }
   },
   {
     "name": "LinkSharer",
