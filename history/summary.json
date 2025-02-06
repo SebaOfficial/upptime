@@ -4,18 +4,19 @@
     "url": "https://racca.me",
     "icon": "https://racca.me/favicon.ico",
     "slug": "racca-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 718,
     "timeDay": 624,
-    "timeWeek": 686,
+    "timeWeek": 697,
     "timeMonth": 680,
     "timeYear": 718,
     "dailyMinutesDown": {
+      "2025-02-06": 1,
       "2024-11-06": 53
     }
   },
@@ -42,9 +43,9 @@
     "url": "https://botapi.racca.me",
     "icon": "https://botapi.racca.me/img/favicon.ico",
     "slug": "telegram-sdk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +54,9 @@
     "timeWeek": 197,
     "timeMonth": 201,
     "timeYear": 189,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-06": 0
+    }
   },
   {
     "name": "QWER",
