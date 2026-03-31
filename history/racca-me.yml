@@ -1,7 +1,7 @@
 url: https://racca.me
-status: up
-code: 200
-responseTime: 725
-lastUpdated: 2026-03-31T16:42:45.608Z
+status: down
+code: 502
+responseTime: 363
+lastUpdated: 2026-03-31T18:36:12.900Z
 startTime: 2024-02-28T18:38:39.395Z
 generator: Upptime <https://github.com/upptime/upptime>
